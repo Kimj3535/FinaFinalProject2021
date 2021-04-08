@@ -1,3 +1,27 @@
 <resources>
     <string name="app_name">FinalProject2021</string>
+    <string name="covid">GO TO COVID 19 APP</string>
+    <string name="covidinfo">Please Click the button below to go to the app</string>
+    <string name="countryName">Country Name</string>
+    <string name="fromDate">From Date</string>
+    <string name="toDate">To Date</string>
+    <string name="Submit">SUBMIT</string>
+    <string name="Saved">SAVED</string>
+    <string name="title">COVID 19</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="db_success">database success</string>
+    <string name="db_failure">database failure</string>
+    <string name="Help">Help</string>
+    <string name="SavedEntries">Saved Entries</string>
+    <string name="TicketApp">Ticket App</string>
+    <string name="LoginPage">Login Page</string>
+    <string name="RecipeApp">Recipe App</string>
+    <string name="MusicApp">Music App</string>
+    <string name="Cases">Cases:</string>
+    <string name="By">By: Kim Johnson</string>
+    <string name="Version">Version 2.1</string>
+    <string name="CovidTask">Covid Task</string>
+    <string name="SE">Saved Entries</string>
+    <string name="Search">Search</string>
 </resources>
